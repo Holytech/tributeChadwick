@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.brand{
+    font-family: 'Courgette', cursive;
+}
+
+.grey{
+    background-color: lightgrey;
+}
+
+#summ ul li{
+    background-color: lightgray;
+}
+
+p{
+    text-justify: newspaper;
+}
