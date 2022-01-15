@@ -15,3 +15,7 @@
 p{
     text-justify: newspaper;
 }
+
+#film .container .row img{
+    height: 390px;
+}
